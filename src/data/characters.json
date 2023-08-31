@@ -1,8 +1,92 @@
 {
-    "id": 1,
-    "name":"Ned Stark",
-    "house": "Stark",
-    "age": 41,
-    "gender":"male",
-    "img": "http://qweqwe.om"
+  "characters": [
+    {
+      "id": 1,
+      "name": "Jon Snow",
+      "house": "Stark",
+      "age": 25,
+      "gender": "Male",
+      "img": "jon_snow.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Daenerys Targaryen",
+      "house": "Targaryen",
+      "age": 23,
+      "gender": "Female",
+      "img": "daenerys.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Tyrion Lannister",
+      "house": "Lannister",
+      "age": 38,
+      "gender": "Male",
+      "img": "tyrion.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Arya Stark",
+      "house": "Stark",
+      "age": 20,
+      "gender": "Female",
+      "img": "arya.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Cersei Lannister",
+      "house": "Lannister",
+      "age": 42,
+      "gender": "Female",
+      "img": "cersei.jpg"
+    },
+    {
+      "name": "Ned Stark",
+      "house": "Stark",
+      "age": 41,
+      "gender": "Male",
+      "img": "ned-stark.jpg",
+      "id": 6
+    },
+    {
+      "name": "El Mago sin dientes",
+      "house": "Stark",
+      "age": 38,
+      "gender": "Male",
+      "img": "el-magorreado.jpg",
+      "id": 7
+    },
+    {
+      "name": "El Mago sin dientes",
+      "house": "Stark",
+      "age": 38,
+      "gender": "Male",
+      "img": "el-magorreado.jpg",
+      "id": 8
+    },
+    {
+      "name": "El Mago sin dientes",
+      "house": "Stark",
+      "age": 38,
+      "id": 9,
+      "gender": "Male",
+      "img": "el-magorreado.jpg"
+    },
+    {
+      "id": 10,
+      "name": "El Mago sin dientes",
+      "house": "Stark",
+      "age": 38,
+      "gender": "Male",
+      "img": "el-magorreado.jpg"
+    },
+    {
+      "id": 55,
+      "name": "El Mago sin dientes",
+      "house": "Stark",
+      "age": 38,
+      "gender": "Male",
+      "img": "el-magorreado.jpg"
+    }
+  ]
 }
